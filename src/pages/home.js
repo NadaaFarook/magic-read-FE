@@ -1,9 +1,14 @@
-import React from 'react'
+import React from "react";
+import {
+  Container
+} from "@material-ui/core";
+import BookCard from "../components/BookCard";
+
 
 export default function Home() {
   return (
-    <div>
-      <h1>Home</h1>
-    </div>
-  )
+    <Container>
+      Home page/Landing page
+    </Container>
+  );
 }

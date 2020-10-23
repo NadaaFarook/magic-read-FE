@@ -9,7 +9,7 @@ git clone https://github.com/Code-Dabblers/magic-read-FE.git
 cd magic-read-FE
 ```
 
-2. Run `yarn` to install the dependencies.
+2. Run `yarn` or `npm i` to install the dependencies.
 3. Follow the intructions to setup the [backend](https://github.com/Code-Dabblers/MagicReads_BE/blob/main/README.md#getting-started)
 4. Make a .env.local file and add the following content (BONUS: Read about the different environment variables [here](https://create-react-app.dev/docs/adding-custom-environment-variables/) :)
 
@@ -17,7 +17,7 @@ cd magic-read-FE
 REACT_APP_API=http://localhost:800/api
 ```
 
-5. Run the app with `yarn start` in the terminal.
+5. Run the app with `yarn start` or `npm start` in the terminal.
 
 And you are good to go!
 
@@ -31,6 +31,13 @@ And you are good to go!
             <img src="https://avatars1.githubusercontent.com/u/48706652?v=4" width="100;" alt="fabcodingzest"/>
             <br />
             <sub><b>Fab</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/najimali">
+            <img src="https://avatars2.githubusercontent.com/u/40513845?v=4" width="100;" alt="najimali"/>
+            <br />
+            <sub><b>Najim Ali</b></sub>
         </a>
     </td>
     <td align="center">
@@ -48,10 +55,17 @@ And you are good to go!
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/najimali">
-            <img src="https://avatars2.githubusercontent.com/u/40513845?v=4" width="100;" alt="najimali"/>
+        <a href="https://github.com/sphoorthig">
+            <img src="https://avatars0.githubusercontent.com/u/59635329?v=4" width="100;" alt="sphoorthig"/>
             <br />
-            <sub><b>Najim Ali</b></sub>
+            <sub><b>Sphoorthi Gaddam</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/NadaFarook">
+            <img src="https://avatars0.githubusercontent.com/u/63719192?v=4" width="100;" alt="NadaFarook"/>
+            <br />
+            <sub><b>NadaFarook</b></sub>
         </a>
     </td></tr>
 </table>
